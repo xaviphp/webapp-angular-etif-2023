@@ -1,0 +1,8 @@
+<div class="ae-grid au-xs-ta-center au-mb-4">
+  <div *ngFor="let persona of infoService.item" class="animate__animated animate__fadeIn ae-grid__item item-lg-4 ae-kappa
+  au-mb-3">
+    <img [src]="persona.imagen" alt="" class="au-mb-3" style="width: 250px; height: 250px;">
+    <h5 class="ae-u-bolder au-mt-2">{{ persona.titulo}}</h5>
+    <p class="ae-u-bolder au-mb-3">{{ persona.marca }}</p>
+  </div>
+</div>

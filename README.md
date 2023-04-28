@@ -1,27 +1,17 @@
-# WebappAngularEtif2023
+# WebApp Angular, página de ejemplo con Portfolio y About 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+Un aplicativo web a través del FrameWork ANGULAR con Firebase como "base de datos" y "Storage", github PAGES para colgar el repositorio y una plantilla de HTML5 para el proyecto de Angular, se llama URKU y esta en PIXEDEN.
 
-## Development server
+## INSTALACIONES (iniciales):
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+* Visual Studio Code
+* Navagedor (Chrome, Brave, Firefox...)
+* Git
+* Terminal (Símbolo del sistema o Consola)
+* Node JS https://nodejs.org/en
+* Instalar TypeScript  "  npm install -g typescript  "  
+* Instalar Angular " npm install -g angular/cli   "
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Extensiones  de Visual Studio Code:
+* https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2 Angular Snippets
+* https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter TypeScript Importer
